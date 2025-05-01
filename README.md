@@ -1,6 +1,4 @@
-- Hi, I’m @wolopezIII. My name is William O. Lopez. Amherst, MA
-- Contact Info: william.omar.lopez@outlook.com
-- Fun fact: I love airplanes and trains.
+- Hi, I’m @wolopezIII. My name is William Lopez.
 
 <!---
 wolopezIII/wolopezIII is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
